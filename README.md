@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I was asked to make a website containing 3 of my favorite recipes, each in a separate html file, using the html skills I had been taught, which was basically unordered and ordered lists.
